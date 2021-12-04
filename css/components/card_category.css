@@ -1,0 +1,11 @@
+.card-category {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url("../../images/breakfast.jpg");
+    width: 270px;
+    color: white;
+    height: 200px;
+    border-radius: 6px;
+    background-size: cover;
+}

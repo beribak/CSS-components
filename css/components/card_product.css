@@ -1,0 +1,27 @@
+
+.card-product {
+    display: flex;
+}
+
+.text-info {
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.card-product h2 {
+    margin: 0px;    
+    font-size: medium;
+}
+
+.card-product p {
+    font-size: small;
+    margin: 0px;
+    color: grey;
+}
+
+.card-product img {
+    width: 100px;
+    height: 100px;
+}
